@@ -54,7 +54,6 @@ dependencies = [
     "tavily>=1.1.0",
     "wikipedia>=1.4.0",
     "qrcode>=8.2",
-    "pytse-client>=0.7.0",
     "arxiv>=4.0.1",
     "fastmcp>=3.4.0",
 ]
